@@ -66,5 +66,6 @@ selctVille.addEventListener("change", () => {
         // Si y'a pas la longitude et latitude envoie "Error"
     } else {
         console.log("Error.");
+        console.log("Error.");
     }
 });
