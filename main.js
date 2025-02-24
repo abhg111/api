@@ -67,5 +67,6 @@ selctVille.addEventListener("change", () => {
     } else {
         console.log("Error.");
         console.log("Error.");
+        console.log("Error.");
     }
 });
